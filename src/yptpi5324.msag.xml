@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>YPTPI5324</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Custom messages for YENG_CU60</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YPTPI5324</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Update failed, problem while saving char &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YPTPI5324</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Not valid characteristics entered.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YPTPI5324</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>No Variant table found.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YPTPI5324</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Not valid characteristic values for variant table</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YPTPI5324</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>No values in CUVTAB_VALC for variant table: &amp;1!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YPTPI5324</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Result is empty.</TEXT>
+    </T100>
+   </T100>
+   <I18N_LANGS>
+    <LANGU>8</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>8</SPRSL>
+     <ARBGB>YPTPI5324</ARBGB>
+     <STEXT>Custom messages for YENG_CU60</STEXT>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>8</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>Update failed, problem while saving char &amp;1</TEXT>
+    </item>
+    <item>
+     <SPRSL>8</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>Not valid characteristics entered.</TEXT>
+    </item>
+    <item>
+     <SPRSL>8</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>No Variant table found.</TEXT>
+    </item>
+    <item>
+     <SPRSL>8</SPRSL>
+     <MSGNR>004</MSGNR>
+     <TEXT>Not valid characteristic values for variant table</TEXT>
+    </item>
+    <item>
+     <SPRSL>8</SPRSL>
+     <MSGNR>005</MSGNR>
+     <TEXT>No values in CUVTAB_VALC for variant table: &amp;1!</TEXT>
+    </item>
+    <item>
+     <SPRSL>8</SPRSL>
+     <MSGNR>006</MSGNR>
+     <TEXT>Result is empty.</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
